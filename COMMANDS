@@ -1,0 +1,31 @@
+"Create a folder in desktop like ":
+
+portfolio-project
+
+"NOW create backend ":
+
+mkdir backend
+cd backend
+
+
+npm init -y
+
+npm install express mongoose cors dotenv nodemon
+
+"create server.js in backend folder" :
+
+server.js
+
+
+"now create frontend" :
+
+npx create-react-app frontend
+
+cd frontend
+npm install axios
+
+APP.JS:
+
+frontend/src/App.js
+
+npm start
